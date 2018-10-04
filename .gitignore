@@ -1,6 +1,9 @@
 # MacOS files
 .DS_Store
 
+# ignore image files
+*.jpg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
